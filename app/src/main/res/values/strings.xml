@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KTANE Password Cracker</string>
+    <string name="action_clear">Clear</string>
+    <string name="result_no_possible_words">No possible words!</string>
+</resources>
